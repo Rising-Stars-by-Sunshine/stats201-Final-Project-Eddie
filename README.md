@@ -64,6 +64,7 @@ Description: Figure 2 compares the predicted data and true data using histograms
 Description: Figure 3 shows the high frequency phrases used in NFT-related literatures. With the help of natural language processing, it is easy to spot that market, Ethereum, and networks are mentioned more than the other phrases, which can bring insight to research on which of the aspects of NFT is currently focused on.
 
 ![Causal Inference](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Eddie/blob/main/spotlight/figures/Causal%20Inference.png)
+
 *Figure 4. Regression Discontinuity applied to the monthly data of carbon concentration in the atmosphere
 Description: From figure 4 we can see that the carbon concentration does not present sudden change after the cutoff event. In contrast, the actual Carbon dioxide concentration actually dropped below the hypothesized regression line if the cutoff event did not happen
 
