@@ -17,10 +17,24 @@ n 1985, a major volcanic eruption occured in Columbia, the Nevado Del Ruiz volca
 
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
+### Meta Data Information
+| Data Files| Data Content | Data Type|
+| :---         |     :---     | :---: |
+|co2_mm_mlo.csv| data of monthly global carbon emissions | Queried |
+|Cited.csv | literatures collected for the explanation task of the problem set | Queried |
+|Regression_Test.csv| Test data for regression task| Processed |
+|Regression_Train.csv| Train data for regression task| Processed |
+
+### Data Dictionary 
+| File of Data| variable name | description | frequency     |  unit. |    type|
+|:---| :---         |     :---     |   :---: |  :---:   | :---: |  
+|   co2_mm_mlo.csv    |      average     |    monthly average of global carbon dioxide emissions  |   monthly    |   parts per million    |    float64   |
+|Cited.csv | title| title of each collected literature | \ | \ | String |
+|Cited.csv | abstract| abstract of each collected literature | \ | \ | String |
+|Regression_Test.csv| average|  monthly average of global carbon dioxide emissions | monthly | parts per million | float64|
+|Regression_Test.csv| average_past|  average of global carbon dioxide emissions of the past month | monthly | parts per million | float64|
+|Regression_Train.csv| average|  monthly average of global carbon dioxide emissions | monthly | parts per million | float64|
+|Regression_Train.csv| average_past|  average of global carbon dioxide emissions of the past month | monthly | parts per million | float64|
 
 
 ## Code
