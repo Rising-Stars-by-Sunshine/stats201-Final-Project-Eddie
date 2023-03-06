@@ -7,6 +7,16 @@
 - **Project Summary**: 
 The annual release of Carbon Dioxide from Volcanic activitites is 0.28-0.36 gigatons(Collins 2019). It would be enlightening to see how much impact this number of carbon emission actually has on the global scale of carbon emissions. Because the Carbon concentration measured is in the global scale, a major volcanic eruption is preferred to be studied so that its effects may be more obvious than an average-sized eruption or minor volcanic activities. In 1985, a major volcanic eruption occured in Columbia, the Nevado Del Ruiz volcano erupted in November, devastating the city of Armero, killing more than 20,000 people(Schuster and Highland 2001). The Armero tragedy was one of the biggest volcanic eruptions in the recent decades that has data on carbon concentration, thus we select to study this particular eruption. The study will analyze monthly data of carbon concentration in the atmosphere from the past few decades. We will apply causal inference to the major volcanic eruption of Nevada Del Ruiz in 1945. In hopes of acquiring a deeper understanding of the relationship between the variable and the potential impact of volcanic eruptions 
 
+## More About the Author
+![headshot](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Eddie/blob/main/spotlight/image.png)
+### Introduction
+Eddie Lin is currently a sophomore student in Duke Kunshan University studying under the Computation and Design major. He has experience in working in programming languages such a Python and Java, he has also learned about using Structured Query Language(SQL).
+
+### Final Reflections
+This course has taught me much about what machine learning can do in the social science fields. I learned to use prediction models, explanation models, and causal inference models to solve problems that I have encountered in this course. I also learned about the other capabilities of machine learning such as optimization and made attempts at implementing optimization to social science problems. This course was taught in an interdisciplinary way, where students who are experienced in social science but not that much in computer science can learn more about the capabilities of machine learning and actually implement algorithms to their research, and students who know computer science well but not social science can use their knowledges in machine learning to solve social science and economical issues. Personally, I benefited hugely from the way this course was taught as I can actually use my coding experience to take a shot in solving social science problems that I was interested in. 
+In the professional research aspect, the course teaches us from the very basics, from creating our own github page, to formulating a research topic and goes on to finishing the research, being peer-reviewed, and responding to the peer review. The process of research is helpful for me in the future to proceed on my own research topics since I have already experienced much of the process of research in this class.
+This course has inspired me to continue to use machine learning on societal, economical, and even environmental issues in the future!
+
 ## Table of Contents
 | File | Content |
 | :---         |:---|
