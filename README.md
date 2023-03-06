@@ -71,26 +71,33 @@ Description: From figure 4 we can see that the carbon concentration does not pre
 ## References
 
 ### Data Source
-- Data Source Title and URL
+- [Global Monitoring Laboratory-Carbon Cycle Greenhouse Gases](https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt)
 ### Code Source
-- Code Source Title and URL
-### Articles
-- Article Source Title and URL
+- [stats201-tutorial-prediction](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
+- [sunshineluyao/design-principle-blockchain](https://github.com/sunshineluyao/design-principle-blockchain/tree/main/code)
+
 ### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
-
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
-
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
+- Ante, Lennart. 2021. “Non-Fungible Token (NFT) Markets on the Ethereum Blockchain: Temporal Development, Cointegration and Interrelations.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3904683.
+- Collins, Terry. 2019. “Scientists Quantify Global Volcanic CO2 Venting; Estimate Total Carbon on Earth.” EurekAlert! October 1, 2019. https://www.eurekalert.org/news-releases/736161.
+- Das, Dipanjan, Priyanka Bose, Nicola Ruaro, Christopher Kruegel, and Giovanni Vigna. 2021. “Understanding Security Issues in the NFT Ecosystem.” ArXiv:2111.08893 [Cs], November. https://arxiv.org/abs/2111.08893.
+- Fowler, Allan, and Johanna Pirker. 2021. “Tokenfication - the Potential of Non-Fungible Tokens (NFT) for Game Development.” Extended Abstracts of the 2021 Annual Symposium on Computer-Human Interaction in Play, October. https://doi.org/10.1145/3450337.3483501.
+- Ghelani, Diptiben. 2022. “What Is Non-Fungible Token (NFT)? A Short Discussion about NFT Terms Used in NFT.” Authorea. October 4, 2022. https://www.authorea.com/doi/full/10.22541/au.166490992.24247550.
+- Hwang, Yohan. 2023. “When Makers Meet the Metaverse: Effects of Creating NFT Metaverse Exhibition in Maker Education.” Computers & Education 194 (March): 104693. https://doi.org/10.1016/j.compedu.2022.104693.
+- Kapoor, Arnav, Dipanwita Guhathakurta, Mehul Mathur, Rupanshu Yadav, Manish Gupta, and Ponnurungam Kumaraguru. 2022. “TweetBoost: Influence of Social Media on NFT Valuation.” ArXiv:2201.08373 [Cs], January. https://arxiv.org/abs/2201.08373.
+- Mazur, Mieszko. 2021. “Non-Fungible Tokens (NFT). The Analysis of Risk and Return.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3953535.
+- Muthe, Koushik Bhargav, Khushboo Sharma, and Karthik Epperla Nagendra Sri. 2020. “A Blockchain Based Decentralized Computing and NFT Infrastructure for Game Networks.” 2020 Second International Conference on Blockchain Computing and Applications (BCCA), November. https://doi.org/10.1109/bcca50787.2020.9274085.
+- Nadini, Matthieu, Laura Alessandretti, Flavio Di Giacinto, Mauro Martino, Luca Maria Aiello, and Andrea Baronchelli. 2021. “Mapping the NFT Revolution: Market Trends, Trade Networks, and Visual Features.” Scientific Reports 11 (1). https://doi.org/10.1038/s41598-021-00053-8.
+- NASA. 2019. “What Do Volcanoes Have to Do with Climate Change? – Climate Change: Vital Signs of the Planet.” Climate Change: Vital Signs of the Planet. 2019. https://climate.nasa.gov/faq/42/what-do-volcanoes-have-to-do-with-climate-change/.
+- Okonkwo, Ifeanyi E. 2021. “NFT, Copyright; and Intellectual Property Commercialisation.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3856154.
+- Oppenheimer, C., D. M. Pyle, and J. Barclay. 2003. Volcanic Degassing. Pubs.geoscienceworld.org. Geological Society of London. https://pubs.geoscienceworld.org/gsl/books/book/1592/Volcanic-Degassing.
+- Park, Andrew, Jan Kietzmann, Leyland Pitt, Amir Dabirian, and Amir Dabirian. 2022. “The Evolution of Nonfungible Tokens: Complexity and Novelty of NFT Use-Cases.” IT Professional 24 (1): 9–14. https://doi.org/10.1109/mitp.2021.3136055.
+- Pinto-Gutiérrez, Christian, Sandra Gaitán, Diego Jaramillo, and Simón Velasquez. 2022. “The NFT Hype: What Draws Attention to Non-Fungible Tokens?” Mathematics 10 (3): 335. https://doi.org/10.3390/math10030335.
+- Popescu, Andrei-Dragos. 2021. “Non-Fungible Tokens (NFT) - Innovation beyond the Craze.” ResearchGate. unknown. August 18, 2021. https://www.researchgate.net/publication/353973149_Non-Fungible_Tokens_NFT_-_Innovation_beyond_the_craze.
+- Schuster, Robert, and Lynn Highland. 2001. “Open-File Report 01-0276; Socioeconomic and Environmental Impacts of Landslides.” Pubs.usgs.gov. 2001. https://pubs.usgs.gov/of/2001/ofr-01-0276/.
+- Tans, Pieter, and Global Monitoring Laboratory. n.d. “Global Monitoring Laboratory - Carbon Cycle Greenhouse Gases.” Gml.noaa.gov. https://gml.noaa.gov/ccgg/trends/data.html.
+- Vasan, Kishore, Milán Janosov, and Albert-László Barabási. 2022. “Quantifying NFT-Driven Networks in Crypto Art.” Scientific Reports 12 (1). https://doi.org/10.1038/s41598-022-05146-6.
+- Wachter, Victor von, Johannes Rude Jensen, Ferdinand Regner, and Omri Ross. 2021. “NFT Wash Trading: Quantifying Suspicious Behaviour in NFT Markets.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4037143.
+- Wang, Qin, Rujia Li, Qi Wang, and Shiping Chen. 2021. “(PDF) Non-Fungible Token (NFT): Overview, Evaluation, Opportunities and Challenges.” ResearchGate. May 2021. https://www.researchgate.net/publication/351656444_Non-Fungible_Token_NFT_Overview_Evaluation_Opportunities_and_Challenges.
+- Zhang, Luyao (Sunshine). 2022. “Machine Learning for Causal Inference.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/causal-inference/release/8.
+- Zhang, Luyao (Sunshine), Zesen Zhuang, and Xinyu (Michelle) Tian. 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/4.
 
