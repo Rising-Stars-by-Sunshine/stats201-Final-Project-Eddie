@@ -28,7 +28,8 @@ n 1985, a major volcanic eruption occured in Columbia, the Nevado Del Ruiz volca
 ### Data Dictionary 
 | File of Data| variable name | description | frequency     |  unit. |    type|
 |:---| :---         |     :---     |   :---: |  :---:   | :---: |  
-|   co2_mm_mlo.csv    |      average     |    monthly average of global carbon dioxide emissions  |   monthly    |   parts per million    |    float64   |
+|   co2_mm_mlo.csv    |      average     |    monthly average of global carbon concentration in the atmosphere  |   monthly    |   parts per million    |    float64   |
+|   co2_mm_mlo.csv    |      deseasonalized     |    monthly average of global carbon concentration in the atmosphere removing the possible interference of the current season |   monthly    |   parts per million    |    float64   |
 |Cited.csv | title| title of each collected literature | \ | \ | String |
 |Cited.csv | abstract| abstract of each collected literature | \ | \ | String |
 |Regression_Test.csv| average|  monthly average of global carbon dioxide emissions | monthly | parts per million | float64|
