@@ -10,9 +10,9 @@ n 1985, a major volcanic eruption occured in Columbia, the Nevado Del Ruiz volca
 ## Table of Contents
 | File | Content |
 | :---         |:---|
-| [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/tree/main/data) | [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/edit/main/README.md#data)|
-| [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/tree/main/code) | [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/edit/main/README.md#code)|
-| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/tree/main/spotlight) |[Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/edit/main/README.md#spotlight)|
+| [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Eddie/tree/main/data) | [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/edit/main/README.md#data)|
+| [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Eddie/tree/main/code) | [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/edit/main/README.md#code)|
+| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Eddie/tree/main/spotlight) |[Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/edit/main/README.md#spotlight)|
 
 
 
