@@ -39,10 +39,15 @@ In 1985, a major volcanic eruption occured in Columbia, the Nevado Del Ruiz volc
 
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+- [Explanation Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/blob/main/code/Problem_Set2_Explanation_Eddie.ipynb)
+- [Prediction Code](https://github.com/Rising-Stars-by-Sunshine/stats201-Eddie-PS-2/blob/main/code/Problem_Set2_Prediction_Eddie.ipynb)
+### Table of Code
+| File| Description |
+| :---         |     :---:     |
+| Prediction.ipynb  | Code that carries out the prediction task |
+| Explanation.ipynb | Code that carries out the explanation task |
+| Causual Inference.ipynb | Code that carries out the causal inference task |
+
 
 ## Spotlight
 ![Poster](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Eddie/blob/main/spotlight/Poster%20updated.png)
