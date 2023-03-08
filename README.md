@@ -61,7 +61,7 @@ This course has inspired me to continue to use machine learning on societal, eco
 
 
 ## Spotlight
-![Poster](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Eddie/blob/main/spotlight/Poster%20updated.png)
+![Poster](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Eddie/blob/main/spotlight/poster.png)
 *Figure 1. Project Poster*
 
 ![linear regression](https://github.com/Rising-Stars-by-Sunshine/stats201-Final-Project-Eddie/blob/main/spotlight/figures/linear%20regression.png)
